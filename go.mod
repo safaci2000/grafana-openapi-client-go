@@ -1,4 +1,4 @@
-module github.com/grafana/grafana-openapi-client-go
+module github.com/safaci2000/grafana-openapi-client-go
 
 go 1.20
 

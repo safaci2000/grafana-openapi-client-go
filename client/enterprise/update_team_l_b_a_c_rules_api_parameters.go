@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/grafana/grafana-openapi-client-go/models"
+	"github.com/safaci2000/grafana-openapi-client-go/models"
 )
 
 // NewUpdateTeamLBACRulesAPIParams creates a new UpdateTeamLBACRulesAPIParams object,
